@@ -30,6 +30,6 @@ body #wall .parent>div:first-of-type>#tag-7.slick {
 	display: none;
 }
 
-#wall .tag-1+#tag-2 {
+.tag-1+#tag-2 {
 	display: none;
 }
