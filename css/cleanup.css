@@ -26,6 +26,6 @@
 body #wall .parent>div:first-of-type>#tag-7.slick {
 	display: none;
 }*/
-#tag-1 {
+.tag-1 {
 	display: none;
 }
